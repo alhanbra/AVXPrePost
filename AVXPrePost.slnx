@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AVXPrePost.vcxproj" />
+  <Project Path="AVXPrePost.vcxproj" Id="5a168083-b2f7-4ccd-afdc-4603c8f30f71" />
 </Solution>
